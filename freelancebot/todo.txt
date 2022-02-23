@@ -1,0 +1,9 @@
+1, admin decline job if deposit is true.. return money and send notification, ask for deposit on contractual jobs only, can not apply for own jobs
+2, plan how escrow should be implemented and code it, rate freelancer(if assigned) when job gets closed, 
+3, add payment method, cashout method, add deposit and cashout requests section on bot status admin,  application fee at proposal submiting and user level, yenepay cut at deposit, handle conversation fallbacks
+4, add admin methods for everything(edit job assign counter, edit user level, close escrows), add rating on every type of job, 
+5, [optimize code, comment] and add amh language ,,(optimization => database langauage access, )
+6, close escrow for admin, show users based on balance
+
+7, mention user at show users instead of usernames, add show users with deposit, 
+8, change channel name to huji, add notification emoji, assign button only on contractual jobs
